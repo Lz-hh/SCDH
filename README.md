@@ -1,2 +1,2 @@
 # SCDH
- The code of SCDH
+ The code of "Supervised Contrastive Discrete Hashing"
